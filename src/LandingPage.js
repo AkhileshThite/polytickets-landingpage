@@ -28,7 +28,7 @@ export default function LandingPage() {
             </p>
           </section>
           <p className="btn-center">
-            <a href="https://github.com">
+            <a href="http://polytickets-marketplace.vercel.app/">
             <button
               className="btn mt-40 ml-20 bg-gradient-to-r from-purple-800 to-blue-500 text-white font-bold py-2 px-6 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
             >Get Started</button>
