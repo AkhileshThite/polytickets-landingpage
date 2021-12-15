@@ -225,10 +225,10 @@ export default function LandingPage() {
               <div className="w-full lg:w-1/2 px-4 py-2">
                 <details className="mb-4">
                   <summary className="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                    What is NFTticket?
+                    What is PolyTickets?
                   </summary>
                   <span className="text-gray-400">
-                    NFTticket is the ticketing marketplace on Polygon network where you can buy, create, and sell tickets in the form of NFTs in no time with a seamless user experience.
+                    PolyTickets is the ticketing marketplace on Polygon network where you can buy, create, and sell tickets in the form of NFTs in no time with a seamless user experience.
                   </span>
                 </details>
                 <details className="mb-4">
